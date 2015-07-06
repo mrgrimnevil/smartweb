@@ -1,0 +1,1 @@
+SmartWeb Is A Web Browser Written In Python Using GTK And Webkit. It Is Also Capable Of XMPP Instant Messaging Protocol And Has A Built-In Bitcoin Wallet And Support For The Tor Network (Through Preferences)
